@@ -82,11 +82,11 @@
 ## Skills & Development
 
 ### Skills
-<u>Technical Languages: Python, Microsoft Office, Jupyter Notebook
+<u>Technical Languages:</u> Python, Microsoft Office, Jupyter Notebook
 
-<u>Native/Bi-Lingual: English (Native Speaking and Writing), Tamil (Native Speaking)
+<u>Native/Bi-Lingual:</u> English (Native Speaking and Writing), Tamil (Native Speaking)
 
-<u>Soft Skills: Proficient in quantitative, organizational, and analytical abilities; adept in fast-paced, team-oriented environments; skilled in ideation and continuous learning; proactive problem-solver; collaborative and adaptable
+<u>Soft Skills:</u> Proficient in quantitative, organizational, and analytical abilities; adept in fast-paced, team-oriented environments; skilled in ideation and continuous learning; proactive problem-solver; collaborative and adaptable
 
 
 ### Interests and Hobbies
