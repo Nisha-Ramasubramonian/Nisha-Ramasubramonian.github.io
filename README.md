@@ -88,6 +88,8 @@
 
 <u>Soft Skills:</u> Proficient in quantitative, organizational, and analytical abilities; adept in fast-paced, team-oriented environments; skilled in ideation and continuous learning; proactive problem-solver; collaborative and adaptable
 
+lol
+
 
 ### Interests and Hobbies
 Reading, Traveling, History, Dance, Anthropology
