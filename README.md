@@ -65,7 +65,12 @@
 ## Skills & Development
 
 ### Skills
-Proficient in quantitative, organizational, and analytical abilities; adept in fast-paced, team-oriented environments; skilled in ideation and continuous learning; proactive problem-solver; collaborative and adaptable
+<u>Technical Languages: Python, Microsoft Office, Jupyter Notebook
+
+<u>Native/Bi-Lingual: English (Native Speaking and Writing), Tamil (Native Speaking)
+
+<u>Soft Skills: Proficient in quantitative, organizational, and analytical abilities; adept in fast-paced, team-oriented environments; skilled in ideation and continuous learning; proactive problem-solver; collaborative and adaptable
+
 
 ### Interests and Hobbies
 Reading, Traveling, History, Dance, Anthropology
