@@ -10,11 +10,11 @@ description: Analyst with a focus in Business Strategy and Project Management
 #show_downloads: false
 theme: jekyll-theme-minimal
 
-# Social links
-social:
-  linkedin: https://www.linkedin.com/in/nisharams/
-  mail: mailto:nisharamasubramonian@gmail.com
+# Add LinkedIn button
+linkedin: https://www.linkedin.com/in/nisharams/
 
-# Contact information
-contact:
-  phone: "(925) 384-9854"
+# Update email
+email: nisharamasubramonian@gmail.com
+
+# Update phone information
+phone: 925-384-9854
