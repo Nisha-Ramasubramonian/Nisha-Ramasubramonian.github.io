@@ -36,7 +36,6 @@
 
 ## Projects
 
-**Dunnhumby Retail Product Mix Optimization** 
 [**Dunnhumby Retail Product Mix Optimization** ](https://github.com/Nisha-Ramasubramonian/Dunnhumby-Store-Analysis)
 
 -	Explored the incremental impact of marketing offers on core success metrics and Key Performance Indicators (KPIs) and informed business decisions. 
@@ -51,7 +50,7 @@
  ![coupon redemption](data assets/coupon redemption.png)
   
 
-**NYC Rent or Buy Interactive Dashboard**
+[**NYC Rent or Buy Interactive Dashboard** ]([https://github.com/Nisha-Ramasubramonian/Dunnhumby-Store-Analysis](https://github.com/Nisha-Ramasubramonian/NYC-Rental-Interactive-Dash))
 
 -	Utilized Python to consolidate and organize a multifaceted dataset within Excel, facilitating streamlined analysis to discern user preferences for buying or renting in NYC.
 -	Integrated UX/UI principles by seamlessly incorporating Excel data into Tableau for dynamic visualization within the App. 
@@ -60,7 +59,8 @@
 
   ![interactive dash](data assets/dash.png)
 
-**Subway Reviews**
+
+[**Subway Reviews** ](https://github.com/Nisha-Ramasubramonian/Subway-Reviews)
 
 -	Consulted with business strategies to guide offers strategies and programs using data insight visualization techniques (such as bar charts and scatter plots) with the Head of Customer Service for forecasting improvements.
 -	Demonstrated the ability to take complex ideas and KPIs and Communicate results and related findings through Python to the Customer Service Team by preparing presentations using data visualized and identifying key takeaways of popularity and ratings. 
