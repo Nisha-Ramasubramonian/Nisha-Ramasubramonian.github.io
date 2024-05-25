@@ -1,20 +1,5 @@
-#title: Nisha Ramasubramonian
-#logo: /assets/img/headshot_circle.png
-#description: text below image
-#show_downloads: true
-#theme: jekyll-theme-minimal
-
 title: Nisha Ramasubramonian
-logo: /Users/nisharams/Desktop/Data Portfolio/images/Portfolio.jpeg
-description: Analyst with a focus in Business Strategy and Project Management
-#show_downloads: false
+logo: /assets/img/headshot_circle.png
+description: text below image
+show_downloads: true
 theme: jekyll-theme-minimal
-
-# Add LinkedIn button
-linkedin: https://www.linkedin.com/in/nisharams/
-
-# Update email
-email: nisharamasubramonian@gmail.com
-
-# Update phone information
-phone: 925-384-9854
