@@ -46,12 +46,18 @@
 -	Directed and project-managed a team of five to collaborate with mentors, meet targets, navigate time zones, ensure effective communication, and review aesthetics and visual 
   legibility.
 
+  ![coupon optimization](data assets/coupon optimization rec.png)
+ ![coupon redemption](data assets/coupon redemption.png)
+  
+
 **NYC Rent or Buy Interactive Dashboard**
 
 -	Utilized Python to consolidate and organize a multifaceted dataset within Excel, facilitating streamlined analysis to discern user preferences for buying or renting in NYC.
 -	Integrated UX/UI principles by seamlessly incorporating Excel data into Tableau for dynamic visualization within the App. 
 -	Led and project-managed a dynamic team of five members to successfully achieve target goals, fostering collaboration, effective communication, and brainstorming innovative 
   improvements and opportunities.
+
+  ![interactive dash](data assets/dash.png)
 
 **Subway Reviews**
 
@@ -61,6 +67,10 @@
 -	Organized 22 million records into data frames and merged them based on business criteria for efficient integration. This led the team to notice a downward trend, prompting the conclusion that reaching a 4.5/5 stars average was unreasonable.
 -	Calculated average ratings and analyzed Subway rating trends across 50 states over ten years to determine popularity. 
 
+ ![rate by size](data assets/avg rate by size.png)
+ ![competitive analysis](data assets/comp analysis.png)
+ 
+ 
 
 ## Skills & Development
 
@@ -76,4 +86,4 @@
 Reading, Traveling, History, Dance, Anthropology
 
 ### Certifications
-link to cert
+ ![BCG Strategy Consulting](data assets/ntTvo6ru6Tq3A2JPq_BCG_X5heHbwQ7KqhPq4EM_1714617390498_completion_certificate.pdf)
