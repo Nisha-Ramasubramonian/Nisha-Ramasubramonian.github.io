@@ -41,4 +41,4 @@ Proficient in quantitative, organizational, and analytical abilities; adept in f
 Reading, Traveling, History, Dance, Anthropology
 
 ## Certifications
-link to ce
+link to cert
