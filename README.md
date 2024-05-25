@@ -1,16 +1,16 @@
 ## Education
 
-**M.S., Business Analytics, Supply Chain Operations Analytics | Cornell University (August 2023)**  
+### **M.S., Business Analytics, Supply Chain Operations Analytics | Cornell University (August 2023)**  
 
 <u>Relevant Courses:</u> Teamwork and Collaboration, Management Writing, Presentations with Data, Spreadsheet Modeling, Machine Learning  
 
 <u>Extracurriculars:</u> Founding Member-Data Science Club, Editor- Yearbook 
 
-**B.S., Business Administration, Business Analytics | Saint Mary’s College of California (May 2020)**  
+### **B.S., Business Administration, Business Analytics | Saint Mary’s College of California (May 2020)**  
 
 <u>Leadership:</u> Vice President- Accounting Association
 
-**B.S., Accounting | Saint Mary’s College of California (May 2020)**  
+### **B.S., Accounting | Saint Mary’s College of California (May 2020)**  
 
 <u>Leadership:</u> President- School of Economics and Business Administration Dean’s Advisory Board
 
@@ -29,7 +29,7 @@
 
 ### Doris Forman CPA
 
-**Tax Associate II- Private Client Services | Feb 2019- Mar 2020**
+**Tax Associate II- Private Client Services (Feb 2019- Mar 2020)**  
 
 - Successfully managed a high volume of tax-related tasks during two busy tax seasons, demonstrating strong time management, organizational, and prioritization skills.
 - Collaborated with team members to enhance efficiency and continued learning.
