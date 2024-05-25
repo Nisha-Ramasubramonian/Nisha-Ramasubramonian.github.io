@@ -1,20 +1,21 @@
 ## Education
 
-**M.S., Business Analytics, Supply Chain Operations Analytics | Cornell University (August 2023)**
-  <u>Relevant Courses:</u> Teamwork and Collaboration, Management Writing, Presentations with Data, Spreadsheet Modeling, Machine Learning  
-  <u>Extracurriculars:</u> Founding Member-Data Science Club, Editor- Yearbook 
+**M.S., Business Analytics, Supply Chain Operations Analytics | Cornell University (August 2023)**  
+<u>Relevant Courses:</u> Teamwork and Collaboration, Management Writing, Presentations with Data, Spreadsheet Modeling, Machine Learning  
 
-**B.S., Business Administration, Business Analytics | Saint Mary’s College of California (May 2020)**
-  <u>Leadership:</u> President- School of Economics and Business Administration Dean’s Advisory Board, Vice President- Accounting Association
+<u>Extracurriculars:</u> Founding Member-Data Science Club, Editor- Yearbook 
 
-**B.S., Accounting | Saint Mary’s College of California (May 2020)**
-  <u>Leadership:</u> President- School of Economics and Business Administration Dean’s Advisory Board, Vice President- Accounting Association
+**B.S., Business Administration, Business Analytics | Saint Mary’s College of California (May 2020)**  
+<u>Leadership:</u> President- School of Economics and Business Administration Dean’s Advisory Board, Vice President- Accounting Association
+
+**B.S., Accounting | Saint Mary’s College of California (May 2020)**  
+<u>Leadership:</u> President- School of Economics and Business Administration Dean’s Advisory Board, Vice President- Accounting Association
 
 ## Work Experience
 
 Andersen LLC
 
-**Tax Associate II- Private Client Services | Aug 2020- Aug 2022**
+**Tax Associate II- Private Client Services | Aug 2020- Aug 2022**  
 **Tax Intern – Private Client Services | Jun 2019-Sep 2019**
 
 - Managed the tax aspects of a portfolio of high-income individuals with complex estate plans (15+ entities) including tax return preparation and forecasting of quarterly tax payments for business planning under tight deadlines.
@@ -37,4 +38,4 @@ Proficient in quantitative, organizational, and analytical abilities; adept in f
 Reading, Traveling, History, Dance, Anthropology
 
 ## Certifications
-click
+link
