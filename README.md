@@ -48,9 +48,9 @@
 
   ![coupon optimization](data assets/coupon optimization rec.png)
  ![coupon redemption](data assets/coupon redemption.png)
-  
 
-[**NYC Rent or Buy Interactive Dashboard** ]((https://github.com/Nisha-Ramasubramonian/NYC-Rental-Interactive-Dash)
+  
+[**NYC Rent or Buy Interactive Dashboard** ](https://github.com/Nisha-Ramasubramonian/NYC-Rental-Interactive-Dash)
 
 -	Utilized Python to consolidate and organize a multifaceted dataset within Excel, facilitating streamlined analysis to discern user preferences for buying or renting in NYC.
 -	Integrated UX/UI principles by seamlessly incorporating Excel data into Tableau for dynamic visualization within the App. 
