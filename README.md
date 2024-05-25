@@ -37,6 +37,7 @@
 ## Projects
 
 **Dunnhumby Retail Product Mix Optimization** 
+[**Dunnhumby Retail Product Mix Optimization** ](https://github.com/Nisha-Ramasubramonian/Dunnhumby-Store-Analysis)
 
 -	Explored the incremental impact of marketing offers on core success metrics and Key Performance Indicators (KPIs) and informed business decisions. 
 -	Merged demographic data using SQL with coupon usage datasets to calculate and analyze repeat coupon usage and sales uplift by frequency, percentage, and campaign. 
