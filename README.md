@@ -1,4 +1,4 @@
-<u>## My Links</u>
+## My Links
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nisharams/" target="_blank">
