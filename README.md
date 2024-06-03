@@ -111,3 +111,5 @@ Reading, Traveling, History, Dance, Anthropology
   <summary>Boston Consulting Group Strategy Consulting</summary>
   <img src="data assets/BCG Strat Consult.pdf.jpg" alt="Boston Consulting Group Strategy Consulting">
 </details>
+
+
