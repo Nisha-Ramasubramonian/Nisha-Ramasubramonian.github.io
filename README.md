@@ -99,8 +99,7 @@
 
 <h1 style="color:#AA142D;">Professional Development & Skills </h1>
 
- ### Certifications
-
+### Certifications
  <details>
   <summary>Boston Consulting Group Strategy Consulting</summary>
   <img src="data assets/Certifications/JPG/BCG Strat Consult.pdf.jpg" alt="Boston Consulting Group Strategy Consulting">
@@ -125,6 +124,7 @@
   <summary>Google Cloud Introduction to SQL for BigQuery and Cloud SQL</summary>
   <img src="data assets/Certifications/JPG/Google Cloud SQL.pdf.jpg" alt="Google Cloud Introduction to SQL for BigQuery and Cloud SQL">
 </details>
+
 
 
 ### Skills
