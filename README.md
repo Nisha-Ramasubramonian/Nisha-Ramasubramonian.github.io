@@ -1,4 +1,6 @@
-## Education
+**<span style="color:red;">Nisha's Data Portfolio</span>**  
+
+## <span style="color:grey;">Education</span>
 
 ### Cornell University (August 2023)
 **M.S. Business Analytics, Supply Chain Operations Analytics**
@@ -25,7 +27,6 @@
 
 - Managed the tax aspects of a portfolio of high-income individuals with complex estate plans (15+ entities) including tax return preparation and forecasting of quarterly tax payments for business planning under tight deadlines.
 - Mentored four interns (three received return offers).
-- Assisted the National Tax Director on a tax law research project.
 - Chosen as an Intern to collaborate directly with the Director of US National Tax on a new tax research project.
 - Selected as Intern Team Lead for National InternConnect, responsible for overseeing a team of 6 interns, ensuring seamless coordination and organization, attendee management, and logistical arrangements.
 
@@ -42,8 +43,7 @@
 
 -	Explored the incremental impact of marketing offers on core success metrics and Key Performance Indicators (KPIs) and informed business decisions. 
 -	Merged demographic data using SQL with coupon usage datasets to calculate and analyze repeat coupon usage and sales uplift by frequency, percentage, and campaign. 
--	Recommend and develop methodologies for measurement specific to marketing offers such as adjusting expiry dates, A/B testing, and boosting engagement to amplify coupon use and 
-  customer retention.  
+-	Recommend and develop methodologies for measurement specific to marketing offers such as adjusting expiry dates, A/B testing, and boosting engagement to amplify coupon use and customer retention.  
 -	Conducted Python and interpreted appropriate analyses to respond to business questions and communicated results and related findings to the marketing team by preparing presentations and identifying key takeaways such as top 3 and bottom 3 campaigns.
 -	Directed and project-managed a team of five to collaborate with mentors, meet targets, navigate time zones, ensure effective communication, and review aesthetics and visual 
   legibility.
