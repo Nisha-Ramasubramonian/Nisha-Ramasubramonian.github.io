@@ -90,17 +90,6 @@ Reading, Traveling, History, Dance, Anthropology
 
 ### Certifications
 
- ![Boston Consulting Group Strategy Consulting](data assets/data assets/BCG Strat Consult.pdf.jpg)
- 
- ![Accenture Data Analytics](data assets/data assets/Acc Data Analytics  copy.pdf.jpg)
- 
- ![Accenture Project Management](data assets/data assets/Acc PM.pdf.jpg)
- 
- ![Goldman Sachs Excel for Business](data assets/data assets/GS Excel.pdf.jpg)
- 
- ![Google Cloud Introduction to SQL for BigQuery and Cloud SQL](data assets/data assets/Google Cloud SQL.pdf.jpg)
-
-
  <details>
   <summary>Boston Consulting Group Strategy Consulting</summary>
   <img src="data assets/data assets/BCG Strat Consult.pdf.jpg" alt="Boston Consulting Group Strategy Consulting">
