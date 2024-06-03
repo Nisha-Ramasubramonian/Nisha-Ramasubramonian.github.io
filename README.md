@@ -1,6 +1,6 @@
-**<span style="color:red;">Nisha's Data Portfolio</span>**  
+<h1 style="color:red;"><b>Nisha's Data Portfolio</b></h1>
 
-## <span style="color:grey;">Education</span>
+## Education
 
 ### Cornell University (August 2023)
 **M.S. Business Analytics, Supply Chain Operations Analytics**
