@@ -133,6 +133,6 @@
   <img src="data assets/Certifications/JPG/Google Cloud SQL.pdf.jpg" alt="Google Cloud Introduction to SQL for BigQuery and Cloud SQL">
 </details>
 
-
-### Interests and Hobbies
+<p ### Interests and Hobbies
 Reading, Traveling, History, Dance, Anthropology
+</p>
