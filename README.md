@@ -89,12 +89,12 @@
 Reading, Traveling, History, Dance, Anthropology
 
 ### Certifications
- ![Boston Consulting Group Strategy Consulting](data assets/BCG Strat Consult.pdf)
+ ![Boston Consulting Group Strategy Consulting](data assets/data assets/BCG Strat Consult.pdf.jpg)
  
- ![Accenture Data Analytics](data assets/Acc Data Analytics .pdf)
+ ![Accenture Data Analytics](data assets/data assets/Acc Data Analytics  copy.pdf.jpg)
  
- ![Accenture Project Management](data assets/Acc PM.pdf)
+ ![Accenture Project Management](data assets/data assets/Acc PM.pdf.jpg)
  
- ![bcg](data assets/ntTvo6ru6Tq3A2JPq_BCG_X5heHbwQ7KqhPq4EM_1714617390498_completion_certificate.pdf)
+ ![Goldman Sachs Excel for Business](data assets/data assets/GS Excel.pdf.jpg)
  
- ![bcg](data assets/ntTvo6ru6Tq3A2JPq_BCG_X5heHbwQ7KqhPq4EM_1714617390498_completion_certificate.pdf)
+ ![Google Cloud Introduction to SQL for BigQuery and Cloud SQL](data assets/data assets/Google Cloud SQL.pdf.jpg)
