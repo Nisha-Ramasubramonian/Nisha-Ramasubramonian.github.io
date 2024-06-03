@@ -99,7 +99,6 @@
 
 <h1 style="color:#AA142D;">Professional Development & Skills </h1>
 
-<p
  ### Certifications
 
  <details>
