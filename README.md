@@ -125,7 +125,7 @@
   <img src="data assets/Certifications/JPG/Google Cloud SQL.pdf.jpg" alt="Google Cloud Introduction to SQL for BigQuery and Cloud SQL">
 </details>
 
-\vspace{1em} % Add 1em (vertical space) between sections
+_______
 
 ### Skills
 <u>Technical Languages:</u> Python, Microsoft Office, Jupyter Notebook
