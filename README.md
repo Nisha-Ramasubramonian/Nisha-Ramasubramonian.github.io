@@ -1,5 +1,21 @@
 <h1 style="color:red;"><b>Nisha's Data Portfolio</b></h1>
 
+## My Links
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/nisharams/" target="_blank">
+    <img src="data assets/Icons/linkedin.png" alt="LinkedIn" style="width:50px; height:50px; border-radius:50%; margin-right:15px;">
+  </a>
+  
+  <a href="mailto:nisharamasubramonian@gmail.com">
+    <img src="data assets/Icons/email.png" alt="Email" style="width:50px; height:50px; border-radius:50%; margin-right:15px;">
+  </a>
+  
+  <a href="tel:9253849854" title="(925) 384-9854">
+    <img src="data assets/Icons/Phone.png" alt="Phone" style="width:50px; height:50px; border-radius:50%; margin-right:15px;">
+  </a>
+</p>
+
 ## Education
 
 ### Cornell University (August 2023)
