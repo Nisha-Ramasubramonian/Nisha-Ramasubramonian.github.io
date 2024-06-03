@@ -103,21 +103,20 @@ Reading, Traveling, History, Dance, Anthropology
 
  <details>
   <summary>Accenture Data Analytics</summary>
-  <img src="data assets/data assets/Acc Data Analytics  copy.pdf.jpg" alt="Accenture Data Analytics">
+  <img src="data assets/Certifications/JPG/Acc Data Analytics  copy.pdf.jpg" alt="Accenture Data Analytics">
 </details>
 
  <details>
   <summary>Accenture Project Management</summary>
-  <img src="data assets/data assets/Acc PM.pdf.jpg" alt="Boston Consulting Group Strategy Consulting">
+  <img src="data assets/Certifications/JPG/Acc PM.pdf.jpg" alt="Boston Consulting Group Strategy Consulting">
 </details>
 
  <details>
   <summary>Goldman Sachs Excel for Business</summary>
-  <img src="data assets/data assets/GS Excel.pdf.jpg" alt="Goldman Sachs Excel for Business">
+  <img src="data assets/Certifications/JPG/GS Excel.pdf.jpg" alt="Goldman Sachs Excel for Business">
 </details>
 
  <details>
   <summary>Google Cloud Introduction to SQL for BigQuery and Cloud SQL</summary>
-  <img src="data assets/data assets/Google Cloud SQL.pdf.jpg" alt="Google Cloud Introduction to SQL for BigQuery and Cloud SQL">
+  <img src="data assets/Certifications/JPG/Google Cloud SQL.pdf.jpg" alt="Google Cloud Introduction to SQL for BigQuery and Cloud SQL">
 </details>
-
