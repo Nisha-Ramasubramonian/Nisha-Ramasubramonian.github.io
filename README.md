@@ -1,4 +1,4 @@
-## My Links
+## <span style="color:blue;"> My Links </span>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nisharams/" target="_blank">
@@ -130,6 +130,7 @@
   <summary>Google Cloud Introduction to SQL for BigQuery and Cloud SQL</summary>
   <img src="data assets/Certifications/JPG/Google Cloud SQL.pdf.jpg" alt="Google Cloud Introduction to SQL for BigQuery and Cloud SQL">
 </details>
+
 
 ### Interests and Hobbies
 Reading, Traveling, History, Dance, Anthropology
