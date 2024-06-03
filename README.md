@@ -89,6 +89,13 @@
 Reading, Traveling, History, Dance, Anthropology
 
 ### Certifications
+
+<summary>Accenture Data Analytics</summary>
+
+![Accenture Data Analytics](data assets/data assets/Acc Data Analytics  copy.pdf.jpg)
+
+</details>
+
  ![Boston Consulting Group Strategy Consulting](data assets/data assets/BCG Strat Consult.pdf.jpg)
  
  ![Accenture Data Analytics](data assets/data assets/Acc Data Analytics  copy.pdf.jpg)
