@@ -46,12 +46,12 @@
 
 ### Doris Forman CPA
 
-**Tax Apprentice (Feb 2019-Mar 2020)** 
+**Tax Apprentice (Feb 2019-May 2020)** 
 
 - Successfully managed a high volume of tax-related tasks during two busy tax seasons, demonstrating strong time management, organizational, and prioritization skills.
 - Collaborated with team members to enhance efficiency and continued learning.
 
-## Projects
+## Project Experience (Cornell)
 
 [**Dunnhumby Retail Product Mix Optimization** ](https://github.com/Nisha-Ramasubramonian/Dunnhumby-Store-Analysis)
 
