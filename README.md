@@ -1,5 +1,5 @@
-<h1 style="color:red;">My Links</h1> 
-
+ <h1 style="color:#AA142D;">My Links</h1>
+ 
 <p align="left">
   <a href="https://www.linkedin.com/in/nisharams/" target="_blank">
     <img src="data assets/Icons/linkedin.png" alt="LinkedIn" style="width:50px; height:50px; border-radius:50%; margin-right:20px;">
@@ -14,7 +14,8 @@
   </a>
 </p>
 
-## Education
+
+<h1 style="color:#AA142D;">Education</h1>
 
 ### Cornell University (August 2023)
 **M.S. Business Analytics, Supply Chain Operations Analytics**
@@ -32,7 +33,7 @@
 
 <u>Leadership:</u> President- School of Economics and Business Administration Dean’s Advisory Board
 
-## Work Experience
+<h1 style="color:#AA142D;">Work Experience</h1>
 
 ### Andersen LLC
 
@@ -51,7 +52,8 @@
 - Successfully managed a high volume of tax-related tasks during two busy tax seasons, demonstrating strong time management, organizational, and prioritization skills.
 - Collaborated with team members to enhance efficiency and continued learning.
 
-## Project Experience (Cornell)
+
+<h1 style="color:#AA142D;">Project Experience (Cornell)</h1>
 
 [**Dunnhumby Retail Product Mix Optimization** ](https://github.com/Nisha-Ramasubramonian/Dunnhumby-Store-Analysis)
 
@@ -95,7 +97,7 @@
  ![rate by size](data assets/Subway Reviews/avg rate by size.png)
  
 
-## Skills & Development
+<h1 style="color:#AA142D;">Professional Development & Skills </h1>
 
 ### Skills
 <u>Technical Languages:</u> Python, Microsoft Office, Jupyter Notebook
