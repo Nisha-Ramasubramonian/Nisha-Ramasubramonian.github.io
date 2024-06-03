@@ -99,13 +99,6 @@
 
 <h1 style="color:#AA142D;">Professional Development & Skills </h1>
 
-### Skills
-<u>Technical Languages:</u> Python, Microsoft Office, Jupyter Notebook
-
-<u>Native/Bi-Lingual:</u> English (Native Speaking and Writing), Tamil (Native Speaking)
-
-<u>Soft Skills:</u> Proficient in quantitative, organizational, and analytical abilities; adept in fast-paced, team-oriented environments; skilled in ideation and continuous learning; proactive problem-solver; collaborative and adaptable
-
 ### Certifications
 
  <details>
@@ -132,6 +125,13 @@
   <summary>Google Cloud Introduction to SQL for BigQuery and Cloud SQL</summary>
   <img src="data assets/Certifications/JPG/Google Cloud SQL.pdf.jpg" alt="Google Cloud Introduction to SQL for BigQuery and Cloud SQL">
 </details>
+
+### Skills
+<u>Technical Languages:</u> Python, Microsoft Office, Jupyter Notebook
+
+<u>Native/Bi-Lingual:</u> English (Native Speaking and Writing), Tamil (Native Speaking)
+
+<u>Soft Skills:</u> Proficient in quantitative, organizational, and analytical abilities; adept in fast-paced, team-oriented environments; skilled in ideation and continuous learning; proactive problem-solver; collaborative and adaptable
 
 <p ### Interests and Hobbies
 Reading, Traveling, History, Dance, Anthropology
