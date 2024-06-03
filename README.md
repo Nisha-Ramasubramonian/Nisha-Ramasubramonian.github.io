@@ -83,7 +83,7 @@
   - **Head of Store Operations:** “Sandwiches are a tricky business. All sandwich chains suffer from poor customer ratings.”
   - **Head of Social Media:** “The goal of 4.5/5 is unreasonable for national chains like us. Only small, local, and boutique restaurants can achieve such high ratings.”
   - **Chief Data Scientist:** “It is well known that customers make the effort to give a rating only when they are either extremely angry or absolutely delighted with the service. So online ratings are not reliable.”
--	Demonstrated the ability to take complex ideas and KPIs and Communicate results and related findings through Python (matplotlib, seaborn, scipy, and pandas)  to the Customer Service Team by preparing presentations using data visualizations (ine charts, bar charts, scatterplots, groupedby dataframes, and linear regression) and identifying key takeaways of popularity and ratings. 
+-	Demonstrated the ability to take complex ideas and KPIs and Communicate results and related findings through Python (matplotlib, seaborn, scipy, and pandas)  to the Customer Service Team by preparing presentations using data visualizations (line charts, bar charts, scatterplots, groupedby dataframes, and linear regression) and identifying key takeaways of popularity and ratings. 
 -	Consult with business strategies to guide offers strategies and programs using data and insights to determine the trajectory of 5-star reviews for sandwich shops by calculating average ratings and analyzing Subway rating trends across 50 states over ten years to determine popularity.
 -	Organized 22 million records into data frames and merged them based on business criteria for efficient integration. This led the team to notice a downward trend, prompting the conclusion that reaching a 4.5/5 stars average was unreasonable.
 -	Calculated average ratings and analyzed Subway rating trends across 50 states over ten years to determine popularity.
@@ -103,10 +103,6 @@
 <u>Native/Bi-Lingual:</u> English (Native Speaking and Writing), Tamil (Native Speaking)
 
 <u>Soft Skills:</u> Proficient in quantitative, organizational, and analytical abilities; adept in fast-paced, team-oriented environments; skilled in ideation and continuous learning; proactive problem-solver; collaborative and adaptable
-
-
-### Interests and Hobbies
-Reading, Traveling, History, Dance, Anthropology
 
 ### Certifications
 
@@ -134,3 +130,6 @@ Reading, Traveling, History, Dance, Anthropology
   <summary>Google Cloud Introduction to SQL for BigQuery and Cloud SQL</summary>
   <img src="data assets/Certifications/JPG/Google Cloud SQL.pdf.jpg" alt="Google Cloud Introduction to SQL for BigQuery and Cloud SQL">
 </details>
+
+### Interests and Hobbies
+Reading, Traveling, History, Dance, Anthropology
