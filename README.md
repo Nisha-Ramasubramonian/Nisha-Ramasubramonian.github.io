@@ -85,11 +85,12 @@
 
 <u>Soft Skills:</u> Proficient in quantitative, organizational, and analytical abilities; adept in fast-paced, team-oriented environments; skilled in ideation and continuous learning; proactive problem-solver; collaborative and adaptable
 
-lol
-
 
 ### Interests and Hobbies
 Reading, Traveling, History, Dance, Anthropology
 
 ### Certifications
- ![BCG Strategy Consulting](data assets/ntTvo6ru6Tq3A2JPq_BCG_X5heHbwQ7KqhPq4EM_1714617390498_completion_certificate.pdf)
+ ![Boston Consulting Group Strategy Consulting](data assets/BCG Strat Consult.pdf)
+ ![Accenture Data Analytics](data assets/Acc Data Analytics .pdf)
+ ![Accenture Project Management](data assets/Acc PM.pdf)
+ ![bcg](data assets/ntTvo6ru6Tq3A2JPq_BCG_X5heHbwQ7KqhPq4EM_1714617390498_completion_certificate.pdf)
