@@ -48,8 +48,8 @@
 -	Directed and project-managed a team of five to collaborate with mentors, meet targets, navigate time zones, ensure effective communication, and review aesthetics and visual 
   legibility.
 
-  ![coupon optimization](data assets/coupon optimization rec.png)
- ![coupon redemption](data assets/coupon redemption.png)
+ ![coupon redemption](data assets/Capstone/coupon redemption.png)
+ ![max discount marketing](data assets/Capstone/max discount marketing.png)
 
   
 [**NYC Rent or Buy Interactive Dashboard** ](https://github.com/Nisha-Ramasubramonian/NYC-Rental-Interactive-Dash)
@@ -59,20 +59,26 @@
 -	Led and project-managed a dynamic team of five members to successfully achieve target goals, fostering collaboration, effective communication, and brainstorming innovative 
   improvements and opportunities.
 
-  ![interactive dash](data assets/dash.png)
+  ![interactive dash](data assets/NYC Dash/dash.png)
 
 
 [**Subway Reviews** ](https://github.com/Nisha-Ramasubramonian/Subway-Reviews)
 
--	Consulted with business strategies to guide offers strategies and programs using data insight visualization techniques (such as bar charts and scatter plots) with the Head of Customer Service for forecasting improvements.
--	Demonstrated the ability to take complex ideas and KPIs and Communicate results and related findings through Python to the Customer Service Team by preparing presentations using data visualized and identifying key takeaways of popularity and ratings. 
+- Consulted with business strategy team to guide offers, strategies, and programs. Used data insight visualization techniques (such as bar charts and scatter plots) to support or disprove the following statements made by the Subway Restaurant Executives:
+  - **Head of Customer Service:** “Our ratings are gradually improving, and we will soon reach 4.5/5.”
+  - **Head of Store Operations:** “Sandwiches are a tricky business. All sandwich chains suffer from poor customer ratings.”
+  - **Head of Social Media:** “The goal of 4.5/5 is unreasonable for national chains like us. Only small, local, and boutique restaurants can achieve such high ratings.”
+  - **Chief Data Scientist:** “It is well known that customers make the effort to give a rating only when they are either extremely angry or absolutely delighted with the service. So online ratings are not reliable.”
+-	Demonstrated the ability to take complex ideas and KPIs and Communicate results and related findings through Python (matplotlib, seaborn, scipy, and pandas)  to the Customer Service Team by preparing presentations using data visualizations (ine charts, bar charts, scatterplots, groupedby dataframes, and linear regression) and identifying key takeaways of popularity and ratings. 
 -	Consult with business strategies to guide offers strategies and programs using data and insights to determine the trajectory of 5-star reviews for sandwich shops by calculating average ratings and analyzing Subway rating trends across 50 states over ten years to determine popularity.
 -	Organized 22 million records into data frames and merged them based on business criteria for efficient integration. This led the team to notice a downward trend, prompting the conclusion that reaching a 4.5/5 stars average was unreasonable.
--	Calculated average ratings and analyzed Subway rating trends across 50 states over ten years to determine popularity. 
+-	Calculated average ratings and analyzed Subway rating trends across 50 states over ten years to determine popularity.
 
- ![rate by size](data assets/avg rate by size.png)
- ![competitive analysis](data assets/comp analysis.png)
- 
+ ![sub trends](data assets/Subway Reviews/trends in sub rates.png)
+ ![competitive analysis](data assets/Subway Reviews/Comp Analysis.png)
+ ![rate distribution](data assets/Subway Reviews/Rating Dist Per Year.png)
+ ![sub trends across states](data assets/Subway Reviews/trends of sub across states.png)
+ ![rate by size](data assets/Subway Reviews/avg rate by size.png)
  
 
 ## Skills & Development
