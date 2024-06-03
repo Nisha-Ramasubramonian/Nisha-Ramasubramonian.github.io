@@ -10,7 +10,7 @@
   </a>
   
   <a href="tel:9253849854" title="(925) 384-9854">
-    <img src="data assets/Icons/phone.png" alt="Phone" style="width:50px; height:50px; border-radius:50%; margin-right:20px;">
+    <img src="data assets/Icons/Phone.png" alt="Phone" style="width:50px; height:50px; border-radius:50%; margin-right:20px;">
   </a>
 </p>
 
