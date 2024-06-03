@@ -105,3 +105,9 @@ Reading, Traveling, History, Dance, Anthropology
  ![Goldman Sachs Excel for Business](data assets/data assets/GS Excel.pdf.jpg)
  
  ![Google Cloud Introduction to SQL for BigQuery and Cloud SQL](data assets/data assets/Google Cloud SQL.pdf.jpg)
+
+
+ <details>
+  <summary>Boston Consulting Group Strategy Consulting</summary>
+  <img src="data assets/BCG Strat Consult.pdf.jpg" alt="Boston Consulting Group Strategy Consulting">
+</details>
