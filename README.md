@@ -1,19 +1,18 @@
 ## Education
 
-### M.S. Business Analytics, Supply Chain Operations Analytics
-**Cornell University (August 2023)**
+### Cornell University (August 2023)
+**M.S. Business Analytics, Supply Chain Operations Analytics**
 
 <u>Relevant Courses:</u> Teamwork and Collaboration, Management Writing, Presentations with Data, Spreadsheet Modeling, Machine Learning  
 
 <u>Extracurriculars:</u> Founding Member-Data Science Club, Editor- Yearbook 
 
-### B.S. Business Administration, Business Analytics
-**Saint Mary’s College of California (May 2020)**
+### Saint Mary’s College of California (May 2020)
+**B.S. Business Administration, Business Analytics**
 
 <u>Leadership:</u> Vice President- Accounting Association
 
-### B.S. Accounting
-**Saint Mary’s College of California (May 2020)**
+**B.S. Accounting**
 
 <u>Leadership:</u> President- School of Economics and Business Administration Dean’s Advisory Board
 
@@ -91,6 +90,11 @@ Reading, Traveling, History, Dance, Anthropology
 
 ### Certifications
  ![Boston Consulting Group Strategy Consulting](data assets/BCG Strat Consult.pdf)
+ 
  ![Accenture Data Analytics](data assets/Acc Data Analytics .pdf)
+ 
  ![Accenture Project Management](data assets/Acc PM.pdf)
+ 
+ ![bcg](data assets/ntTvo6ru6Tq3A2JPq_BCG_X5heHbwQ7KqhPq4EM_1714617390498_completion_certificate.pdf)
+ 
  ![bcg](data assets/ntTvo6ru6Tq3A2JPq_BCG_X5heHbwQ7KqhPq4EM_1714617390498_completion_certificate.pdf)
