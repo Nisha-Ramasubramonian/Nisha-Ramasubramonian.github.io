@@ -90,8 +90,6 @@ Reading, Traveling, History, Dance, Anthropology
 
 ### Certifications
 
- ![Accenture Data Analytics](data assets/data assets/Acc Data Analytics  copy.pdf.jpg)
-
  ![Boston Consulting Group Strategy Consulting](data assets/data assets/BCG Strat Consult.pdf.jpg)
  
  ![Accenture Data Analytics](data assets/data assets/Acc Data Analytics  copy.pdf.jpg)
@@ -104,13 +102,27 @@ Reading, Traveling, History, Dance, Anthropology
 
 
  <details>
-  <summary>Accenture Data Analytics</summary>
-  <img src="data assets/data assets/Acc Data Analytics  copy.pdf.jpg" alt="Boston Consulting Group Strategy Consulting">
-</details>
-
- <details>
   <summary>Boston Consulting Group Strategy Consulting</summary>
   <img src="data assets/data assets/BCG Strat Consult.pdf.jpg" alt="Boston Consulting Group Strategy Consulting">
 </details>
 
+ <details>
+  <summary>Accenture Data Analytics</summary>
+  <img src="data assets/data assets/Acc Data Analytics  copy.pdf.jpg" alt="Accenture Data Analytics">
+</details>
+
+ <details>
+  <summary>Accenture Project Management</summary>
+  <img src="data assets/data assets/Acc PM.pdf.jpg" alt="Boston Consulting Group Strategy Consulting">
+</details>
+
+ <details>
+  <summary>Goldman Sachs Excel for Business</summary>
+  <img src="data assets/data assets/GS Excel.pdf.jpg" alt="Goldman Sachs Excel for Business">
+</details>
+
+ <details>
+  <summary>Google Cloud Introduction to SQL for BigQuery and Cloud SQL</summary>
+  <img src="data assets/data assets/Google Cloud SQL.pdf.jpg" alt="Google Cloud Introduction to SQL for BigQuery and Cloud SQL">
+</details>
 
