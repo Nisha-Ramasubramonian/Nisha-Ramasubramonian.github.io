@@ -99,7 +99,8 @@
 
 <h1 style="color:#AA142D;">Professional Development & Skills </h1>
 
-<p ### Certifications
+<p
+ ### Certifications
 
  <details>
   <summary>Boston Consulting Group Strategy Consulting</summary>
@@ -125,7 +126,7 @@
   <summary>Google Cloud Introduction to SQL for BigQuery and Cloud SQL</summary>
   <img src="data assets/Certifications/JPG/Google Cloud SQL.pdf.jpg" alt="Google Cloud Introduction to SQL for BigQuery and Cloud SQL">
 </details>
-</p>
+
 
 ### Skills
 <u>Technical Languages:</u> Python, Microsoft Office, Jupyter Notebook
