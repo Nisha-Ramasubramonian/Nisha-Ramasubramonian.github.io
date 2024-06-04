@@ -18,18 +18,18 @@
 <h1 style="color:#AA142D;">Education</h1>
 
 ### Cornell University (August 2023)
-**M.S. Business Analytics, Supply Chain Operations Analytics**
+<i>**M.S. Business Analytics, Supply Chain Operations Analytics**</i>
 
 <u>Relevant Courses:</u> Teamwork and Collaboration, Management Writing, Presentations with Data, Spreadsheet Modeling, Machine Learning  
 
 <u>Extracurriculars:</u> Founding Member-Data Science Club, Editor- Yearbook 
 
 ### Saint Mary’s College of California (May 2020)
-**B.S. Business Administration, Business Analytics**
+<i>**B.S. Business Administration, Business Analytics**</i>
 
 <u>Leadership:</u> Vice President- Accounting Association
 
-**B.S. Accounting**
+<i>**B.S. Accounting**</i>
 
 <u>Leadership:</u> President- School of Economics and Business Administration Dean’s Advisory Board
 
@@ -37,8 +37,8 @@
 
 ### Andersen LLC
 
-**Tax Associate II- Private Client Services (Aug 2020- Aug 2022)**  
-**Tax Intern – Private Client Services (Jun 2019-Sep 2019)**  
+<i>**Tax Associate II- Private Client Services (Aug 2020- Aug 2022)**</i> 
+<i> **Tax Intern – Private Client Services (Jun 2019-Sep 2019)**</i>
 
 - Managed the tax aspects of a portfolio of high-income individuals with complex estate plans (15+ entities) including tax return preparation and forecasting of quarterly tax payments for business planning under tight deadlines.
 - Mentored four interns (three received return offers).
@@ -47,7 +47,7 @@
 
 ### Doris Forman CPA
 
-**Tax Apprentice (Feb 2019-May 2020)** 
+<i>**Tax Apprentice (Feb 2019-May 2020)**</i>
 
 - Successfully managed a high volume of tax-related tasks during two busy tax seasons, demonstrating strong time management, organizational, and prioritization skills.
 - Collaborated with team members to enhance efficiency and continued learning.
