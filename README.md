@@ -14,6 +14,8 @@
   </a>
 </p>
 
+#Location: San Francisco-Bay Area, California 
+**Open to Relocation**
 
 <h1 style="color:#AA142D;">Education</h1>
 
