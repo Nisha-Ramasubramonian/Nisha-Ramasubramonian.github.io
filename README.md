@@ -15,8 +15,8 @@
 </p>
 
 <h2 style="color:#AA142D;">Location</h2>
-<u>Location:</u>San Francisco-Bay Area, California 
-**Open to Relocation**: Domestically and Internationally 
+-San Francisco-Bay Area, California 
+-**Open to Relocation**: Domestic and International
 
 <h1 style="color:#AA142D;">Education</h1>
 
