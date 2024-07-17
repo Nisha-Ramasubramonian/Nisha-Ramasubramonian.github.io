@@ -1,4 +1,4 @@
- <h1 style="color:#AA142D;">My Links</h1>
+ <h1 style="color:#AA142D;">About</h1>
  
 <p align="left">
   <a href="https://www.linkedin.com/in/nisharams/" target="_blank">
@@ -14,7 +14,6 @@
   </a>
 </p>
 
-<h2 style="color:#AA142D;">My Links</h2>
 <u>Location:</u>San Francisco-Bay Area, California 
 **Open to Relocation**
 
