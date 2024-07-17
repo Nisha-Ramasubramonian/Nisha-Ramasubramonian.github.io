@@ -14,7 +14,8 @@
   </a>
 </p>
 
-<u>Location:</u> San Francisco-Bay Area, California 
+<h2 style="color:#AA142D;">My Links</h2>
+<u>Location:</u>San Francisco-Bay Area, California 
 **Open to Relocation**
 
 <h1 style="color:#AA142D;">Education</h1>
