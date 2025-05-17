@@ -105,6 +105,16 @@
 
 ### Certifications
  <details>
+  <summary>EPIC HIM Release of Information</summary>
+  <img src="data assets/Certifications/JPG/BCG Strat Consult.pdf.jpg" alt="EPIC HIM Release of Information">
+</details>
+
+ <details>
+  <summary>Google AI Essentials</summary>
+  <img src="data assets/Certifications/JPG/Google AI Essentials.pdf.jpg" alt="Google AI Essentials">
+</details>
+ 
+ <details>
   <summary>Boston Consulting Group Strategy Consulting</summary>
   <img src="data assets/Certifications/JPG/BCG Strat Consult.pdf.jpg" alt="Boston Consulting Group Strategy Consulting">
 </details>
